@@ -1,13 +1,6 @@
-# [am-serv00-github-action](https://github.com/amclubs/am-serv00-github-action)
 通过GitHub Action 实现serv00、socks5、vmess、x-ui面板、哪吒面板、节点等在serv00里部署的程序保活、serv00帐号保活,并可TG通过
 
-#
-▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
-</br>🎁 不要只是下载或Fork。请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
-</br>✅**解锁更多技术请点击进入 YouTube频道[【@AM_CLUB】](https://youtube.com/@AM_CLUB) 、[【个人博客】](https://am.809098.xyz)** 、TG群[【AM科技 | 分享交流群】](https://t.me/AM_CLUBS) 、获取免费节点[【进群发送关键字: 订阅】](https://t.me/AM_CLUBS)
 
-
-#
 - [部署视频教程](https://youtu.be/zkGGklEaO2I)
 - huggingface部署青龙面板定时保活教程：[点击进入观看](https://youtu.be/J4lcIwBowmM)
 - VLESS免费节点部署视频教程：[点击进入观看](https://youtu.be/dPH63nITA0M) 
