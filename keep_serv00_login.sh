@@ -9,12 +9,10 @@ re="\033[0m"
 
 # 打印欢迎信息
 echo ""
-purple "=== serv00 | AM科技 一键保活脚本 ===\n"
-echo -e "${green}脚本地址：${re}${yellow}https://github.com/amclubs/am-serv00-github-action${re}\n"
-echo -e "${green}YouTube频道：${re}${yellow}https://youtube.com/@AM_CLUBS${re}\n"
-echo -e "${green}个人博客：${re}${yellow}https://am.809098.xyz${re}\n"
-echo -e "${green}TG反馈群组：${re}${yellow}https://t.me/AM_CLUBS${re}\n"
-purple "=== 转载请著名出处 AM科技，请勿滥用 ===\n"
+purple "=== serv00 一键保活脚本 ===\n"
+echo -e "${green}脚本地址：${re}${yellow}https://github.com/lkqstart/serv00-action${re}\n"
+echo -e "${green}TG反馈群组：${re}${yellow}https://t.me/+jiR-isGnuY40NzI1${re}\n"
+purple "======\n"
 
 # 发送 Telegram 消息的函数
 send_telegram_message() {
