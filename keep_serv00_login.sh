@@ -77,9 +77,9 @@ for account in $accounts; do
         echo "成功激活 $username@$ip"
 	send_telegram_message 
  	"服务器登录成功通知：
-	总共有 *$total_accounts* 个用户，
-	用户名: *$username*
-	服务器: *$ip*
+	总共有 $total_accounts 个用户，
+	用户名:$username
+	服务器:$ip
 	登录时间: $(TZ="Asia/Shanghai" date "+%Y-%m-%d %H:%M:%S")请及时查看。"
 
     else
