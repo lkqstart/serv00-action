@@ -11,7 +11,6 @@ re="\033[0m"
 echo ""
 purple "=== serv00 一键保活脚本 ===\n"
 echo -e "${green}脚本地址：${re}${yellow}https://github.com/lkqstart/serv00-action${re}\n"
-echo -e "${green}个人博客：${re}${yellow}https://am.809098.xyz${re}\n"
 echo -e "${green}TG反馈群组：${re}${yellow}https://t.me/+jiR-isGnuY40NzI1${re}\n"
 purple "==========================\n"
 
